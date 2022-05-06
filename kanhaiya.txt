@@ -1,2 +1,1 @@
-Github URL -
-https://github.com/kc11381/LendingClub
+Github URL - https://github.com/kc11381/LendingClub
